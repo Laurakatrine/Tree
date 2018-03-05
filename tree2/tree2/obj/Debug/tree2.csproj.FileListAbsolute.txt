@@ -1,0 +1,2 @@
+c:\users\laura\source\repos\tree2\tree2\obj\Debug\tree2.csprojResolveAssemblyReference.cache
+c:\users\laura\source\repos\tree2\tree2\obj\Debug\tree2.csproj.CoreCompileInputs.cache
